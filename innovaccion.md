@@ -10,9 +10,9 @@ Esta experiencia de juego interactiva está inspirada en **“Black Mirror: Band
 
 Tecnología ocupada:
 
-Azure = ['App Services']
+-Azure = ['App Services']
 
-Web = ['WordPress', 'Elementor']
+-Web = ['WordPress', 'Elementor']
 
 
 ![image](https://user-images.githubusercontent.com/91858100/136084470-febd0a70-9df1-43eb-bfdd-5d83f7ee80b9.png)
