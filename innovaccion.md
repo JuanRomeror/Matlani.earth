@@ -20,3 +20,9 @@ Web = ['WordPress', 'Elementor']
 Repositorio, por Azure:
 
 #https://github.com/azureappserviceoss/wordpress-azure
+
+![image](https://user-images.githubusercontent.com/91858100/136084470-febd0a70-9df1-43eb-bfdd-5d83f7ee80b9.png)
+
+![image](https://user-images.githubusercontent.com/91858100/136084304-078d08b7-f195-4b33-bb21-36e167dd1fb1.png)
+
+
