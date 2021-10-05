@@ -2,13 +2,10 @@ Creemos que lo que conecta la ciencia y sus distintas disciplinas son las vidas 
 
 Esta experiencia de juego interactiva está inspirada en **“Black Mirror: Bandersnatch”**, en donde jugadores deciden su propia historia basada en las **DECICIONES** que tomen, el juego se encuentra alojado en una página web de libre y fácil acceso para todo el mundo por lo que puede integrarse fácilmente como herramienta interactiva para proyectos de divulgación de la ciencia enfocados principalmente en jóvenes para compartir la idea de que cada decisión que tomemos puede llevarnos a convertirnos en un gran científico esto nos lleva a la premisa de cualquiera puede ser un científico.
 
-[Link de la página del juego](https://matlaniearth.azurewebsites.net).
+[Página del juego](https://matlaniearth.azurewebsites.net).
 
-#https://matlaniearth.azurewebsites.net
 
-Link video TikTok:
-
-#https://vm.tiktok.com/ZMRKS4Ukf/
+[Video TikTok](https://vm.tiktok.com/ZMRKS4Ukf/).
 
 
 Tecnología ocupada:
